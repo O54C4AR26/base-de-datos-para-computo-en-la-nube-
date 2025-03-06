@@ -1,0 +1,10 @@
+db.cazas.insertMany([
+   { modelo: "f-35", paises: ["usa", "inglaterra"],dimensiones: [15.60,10.70,4.36]},
+   { modelo: "f-16", paises: ["usa", "belgica","egipto","israel","otros"],dimensiones: [15,9.96,4]},
+   { modelo: "f-15", paises: ["usa", "israel","japon"],dimensiones: [19,13,6]},
+    { modelo: "eurofighter", paises: ["inglaterra", "alemania","españa","italia"],dimensiones: [16,11,4]},
+{ modelo: "f-18", paises: ["usa", "canada","españa","otros"],dimensiones: [17.07,11.43,4.66]},
+{ modelo: "rafale", paises: ["francia", "egipto"],dimensiones: [15,11,5]},
+{ modelo: "su-34", paises: ["rusia"],dimensiones: [23,15,6]}
+
+]);

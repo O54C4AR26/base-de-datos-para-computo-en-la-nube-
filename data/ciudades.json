@@ -1,0 +1,898 @@
+[
+  {
+    "codigo": 0,
+    "nombre": "Rivers",
+    "pais": "Rwanda",
+    "poblacion": 1897258,
+    "telefonos": [
+      " (883) 598-3872",
+      " (891) 536-2508",
+      " (956) 458-3015",
+      " (919) 525-2594",
+      " (878) 518-2476",
+      " (850) 559-3407",
+      " (903) 512-3947"
+    ],
+    "alcalde": {
+      "nombre": "Crystal",
+      "apellidos": "Long",
+      "edad": 76
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Marcy Leon",
+        "edad": 80
+      },
+      {
+        "identificador": 1,
+        "nombre": "Jeri Flowers",
+        "edad": 78
+      },
+      {
+        "identificador": 2,
+        "nombre": "Beverley Powell",
+        "edad": 22
+      }
+    ],
+    "resumen": "La ciudad de , Rivers tiene una poblacion de 1897258",
+    "atraccion_preferida": "playa"
+  },
+  {
+    "codigo": 1,
+    "nombre": "Nanafalia",
+    "pais": "Malaysia",
+    "poblacion": 337568,
+    "telefonos": [
+      " (962) 488-2581",
+      " (993) 487-2224",
+      " (877) 437-2251",
+      " (904) 429-3196",
+      " (888) 552-2216",
+      " (940) 553-2835",
+      " (897) 537-3185"
+    ],
+    "alcalde": {
+      "nombre": "Staci",
+      "apellidos": "Mcdonald",
+      "edad": 75
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Landry Dillard",
+        "edad": 36
+      },
+      {
+        "identificador": 1,
+        "nombre": "Snyder Mcfadden",
+        "edad": 72
+      },
+      {
+        "identificador": 2,
+        "nombre": "Selma Cortez",
+        "edad": 57
+      }
+    ],
+    "resumen": "La ciudad de , Nanafalia tiene una poblacion de 337568",
+    "atraccion_preferida": "playa"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Venice",
+    "pais": "S. Georgia and S. Sandwich Isls.",
+    "poblacion": 1143098,
+    "telefonos": [
+      " (971) 572-2755",
+      " (898) 487-2777",
+      " (927) 552-2291",
+      " (877) 423-3462",
+      " (826) 455-2320",
+      " (891) 567-2509",
+      " (990) 498-3718"
+    ],
+    "alcalde": {
+      "nombre": "Boone",
+      "apellidos": "Spencer",
+      "edad": 37
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Huff Farley",
+        "edad": 80
+      },
+      {
+        "identificador": 1,
+        "nombre": "Kimberly Gamble",
+        "edad": 20
+      },
+      {
+        "identificador": 2,
+        "nombre": "Wise Moses",
+        "edad": 76
+      }
+    ],
+    "resumen": "La ciudad de , Venice tiene una poblacion de 1143098",
+    "atraccion_preferida": "turismo"
+  },
+  {
+    "codigo": 3,
+    "nombre": "Boling",
+    "pais": "Venezuela",
+    "poblacion": 3059508,
+    "telefonos": [
+      " (964) 500-2329",
+      " (893) 469-3396",
+      " (862) 528-2315",
+      " (972) 445-3837",
+      " (984) 588-2537",
+      " (828) 547-3889",
+      " (847) 401-3317"
+    ],
+    "alcalde": {
+      "nombre": "Sabrina",
+      "apellidos": "Miles",
+      "edad": 74
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Patel Mclaughlin",
+        "edad": 68
+      },
+      {
+        "identificador": 1,
+        "nombre": "Shawn Bailey",
+        "edad": 69
+      },
+      {
+        "identificador": 2,
+        "nombre": "Pate Huffman",
+        "edad": 79
+      }
+    ],
+    "resumen": "La ciudad de , Boling tiene una poblacion de 3059508",
+    "atraccion_preferida": "playa"
+  },
+  {
+    "codigo": 4,
+    "nombre": "Elfrida",
+    "pais": "Guatemala",
+    "poblacion": 161840,
+    "telefonos": [
+      " (923) 439-3883",
+      " (912) 507-3953",
+      " (817) 556-2136",
+      " (901) 514-2896",
+      " (850) 401-3690",
+      " (866) 400-2421",
+      " (936) 587-3460"
+    ],
+    "alcalde": {
+      "nombre": "Kaufman",
+      "apellidos": "Sykes",
+      "edad": 79
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Cora Hayden",
+        "edad": 76
+      },
+      {
+        "identificador": 1,
+        "nombre": "Rowe Poole",
+        "edad": 35
+      },
+      {
+        "identificador": 2,
+        "nombre": "Cooper Potter",
+        "edad": 88
+      }
+    ],
+    "resumen": "La ciudad de , Elfrida tiene una poblacion de 161840",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 5,
+    "nombre": "Cedarville",
+    "pais": "Gabon",
+    "poblacion": 3167742,
+    "telefonos": [
+      " (959) 434-3316",
+      " (976) 487-2352",
+      " (905) 521-3787",
+      " (905) 491-2002",
+      " (882) 422-2497",
+      " (828) 450-3712",
+      " (955) 465-3802"
+    ],
+    "alcalde": {
+      "nombre": "Cathy",
+      "apellidos": "Hebert",
+      "edad": 41
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Francis Bradford",
+        "edad": 55
+      },
+      {
+        "identificador": 1,
+        "nombre": "Melissa Hubbard",
+        "edad": 20
+      },
+      {
+        "identificador": 2,
+        "nombre": "Estelle Bruce",
+        "edad": 48
+      }
+    ],
+    "resumen": "La ciudad de , Cedarville tiene una poblacion de 3167742",
+    "atraccion_preferida": "alpinismo"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Orin",
+    "pais": "Faroe Islands",
+    "poblacion": 3446239,
+    "telefonos": [
+      " (823) 488-2328",
+      " (885) 590-2912",
+      " (959) 524-3355",
+      " (881) 587-3374",
+      " (988) 557-2932",
+      " (906) 506-2427",
+      " (943) 448-3932"
+    ],
+    "alcalde": {
+      "nombre": "Lavonne",
+      "apellidos": "Logan",
+      "edad": 90
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Walker Abbott",
+        "edad": 77
+      },
+      {
+        "identificador": 1,
+        "nombre": "Maude Becker",
+        "edad": 83
+      },
+      {
+        "identificador": 2,
+        "nombre": "Beatriz Snow",
+        "edad": 22
+      }
+    ],
+    "resumen": "La ciudad de , Orin tiene una poblacion de 3446239",
+    "atraccion_preferida": "alpinismo"
+  },
+  {
+    "codigo": 7,
+    "nombre": "Mulino",
+    "pais": "Bosnia and Herzegovina",
+    "poblacion": 3656897,
+    "telefonos": [
+      " (839) 492-3793",
+      " (990) 450-3638",
+      " (825) 496-3811",
+      " (876) 532-3990",
+      " (977) 469-3531",
+      " (956) 477-2993",
+      " (937) 567-3983"
+    ],
+    "alcalde": {
+      "nombre": "Mandy",
+      "apellidos": "Steele",
+      "edad": 72
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Carole Landry",
+        "edad": 81
+      },
+      {
+        "identificador": 1,
+        "nombre": "Johns Phelps",
+        "edad": 36
+      },
+      {
+        "identificador": 2,
+        "nombre": "Tasha Shepard",
+        "edad": 72
+      }
+    ],
+    "resumen": "La ciudad de , Mulino tiene una poblacion de 3656897",
+    "atraccion_preferida": "playa"
+  },
+  {
+    "codigo": 8,
+    "nombre": "Websterville",
+    "pais": "Vatican City State (Holy See)",
+    "poblacion": 2607142,
+    "telefonos": [
+      " (827) 522-3079",
+      " (912) 497-3796",
+      " (885) 557-3203",
+      " (875) 416-2199",
+      " (914) 465-2845",
+      " (892) 441-2348",
+      " (821) 418-2104"
+    ],
+    "alcalde": {
+      "nombre": "Odonnell",
+      "apellidos": "Wolf",
+      "edad": 82
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Margo Hale",
+        "edad": 64
+      },
+      {
+        "identificador": 1,
+        "nombre": "Krystal Jones",
+        "edad": 41
+      },
+      {
+        "identificador": 2,
+        "nombre": "Frances Petersen",
+        "edad": 59
+      }
+    ],
+    "resumen": "La ciudad de , Websterville tiene una poblacion de 2607142",
+    "atraccion_preferida": "turismo"
+  },
+  {
+    "codigo": 9,
+    "nombre": "Corinne",
+    "pais": "Mauritania",
+    "poblacion": 3884179,
+    "telefonos": [
+      " (846) 513-2565",
+      " (879) 426-3385",
+      " (987) 405-3711",
+      " (962) 502-2724",
+      " (932) 500-2128",
+      " (949) 532-3389",
+      " (871) 525-2392"
+    ],
+    "alcalde": {
+      "nombre": "Robin",
+      "apellidos": "Nguyen",
+      "edad": 84
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Aurora Ballard",
+        "edad": 75
+      },
+      {
+        "identificador": 1,
+        "nombre": "Kelley Harmon",
+        "edad": 40
+      },
+      {
+        "identificador": 2,
+        "nombre": "Olga Callahan",
+        "edad": 87
+      }
+    ],
+    "resumen": "La ciudad de , Corinne tiene una poblacion de 3884179",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 10,
+    "nombre": "Celeryville",
+    "pais": "France, Metropolitan",
+    "poblacion": 3981468,
+    "telefonos": [
+      " (865) 598-2718",
+      " (804) 450-2138",
+      " (860) 511-2346",
+      " (886) 505-3431",
+      " (815) 415-3406",
+      " (829) 541-3600",
+      " (844) 496-3984"
+    ],
+    "alcalde": {
+      "nombre": "Mavis",
+      "apellidos": "Chambers",
+      "edad": 25
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Gaines Woodard",
+        "edad": 30
+      },
+      {
+        "identificador": 1,
+        "nombre": "Love Dominguez",
+        "edad": 86
+      },
+      {
+        "identificador": 2,
+        "nombre": "Perry Kline",
+        "edad": 75
+      }
+    ],
+    "resumen": "La ciudad de , Celeryville tiene una poblacion de 3981468",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 11,
+    "nombre": "Cochranville",
+    "pais": "Algeria",
+    "poblacion": 1182974,
+    "telefonos": [
+      " (933) 401-3216",
+      " (827) 443-2482",
+      " (906) 405-3085",
+      " (957) 568-3099",
+      " (971) 521-3408",
+      " (915) 507-2537",
+      " (855) 427-3346"
+    ],
+    "alcalde": {
+      "nombre": "Caroline",
+      "apellidos": "Franks",
+      "edad": 75
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Young Stevenson",
+        "edad": 64
+      },
+      {
+        "identificador": 1,
+        "nombre": "Navarro Ellis",
+        "edad": 43
+      },
+      {
+        "identificador": 2,
+        "nombre": "Dionne Oneal",
+        "edad": 80
+      }
+    ],
+    "resumen": "La ciudad de , Cochranville tiene una poblacion de 1182974",
+    "atraccion_preferida": "playa"
+  },
+  {
+    "codigo": 12,
+    "nombre": "Bath",
+    "pais": "Germany",
+    "poblacion": 1242042,
+    "telefonos": [
+      " (910) 401-3987",
+      " (861) 570-3503",
+      " (870) 494-2260",
+      " (984) 456-2220",
+      " (869) 555-2224",
+      " (805) 417-2424",
+      " (971) 459-2104"
+    ],
+    "alcalde": {
+      "nombre": "Lowe",
+      "apellidos": "Best",
+      "edad": 84
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Martha Morgan",
+        "edad": 19
+      },
+      {
+        "identificador": 1,
+        "nombre": "Parrish Francis",
+        "edad": 78
+      },
+      {
+        "identificador": 2,
+        "nombre": "Bruce Flores",
+        "edad": 55
+      }
+    ],
+    "resumen": "La ciudad de , Bath tiene una poblacion de 1242042",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 13,
+    "nombre": "Concho",
+    "pais": "Brazil",
+    "poblacion": 364273,
+    "telefonos": [
+      " (866) 457-3087",
+      " (950) 412-2287",
+      " (808) 529-3037",
+      " (996) 533-3926",
+      " (966) 502-2962",
+      " (940) 478-3186",
+      " (989) 574-2113"
+    ],
+    "alcalde": {
+      "nombre": "Cleveland",
+      "apellidos": "Burris",
+      "edad": 73
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Moses Gonzales",
+        "edad": 51
+      },
+      {
+        "identificador": 1,
+        "nombre": "Watts Byrd",
+        "edad": 36
+      },
+      {
+        "identificador": 2,
+        "nombre": "Valencia Norris",
+        "edad": 85
+      }
+    ],
+    "resumen": "La ciudad de , Concho tiene una poblacion de 364273",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 14,
+    "nombre": "Beason",
+    "pais": "Mayotte",
+    "poblacion": 2491189,
+    "telefonos": [
+      " (978) 550-3041",
+      " (928) 414-2456",
+      " (956) 441-2746",
+      " (955) 467-2966",
+      " (977) 416-3306",
+      " (814) 593-3730",
+      " (908) 423-2368"
+    ],
+    "alcalde": {
+      "nombre": "Anna",
+      "apellidos": "Odom",
+      "edad": 32
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Blanche Hodge",
+        "edad": 48
+      },
+      {
+        "identificador": 1,
+        "nombre": "Bright Hewitt",
+        "edad": 89
+      },
+      {
+        "identificador": 2,
+        "nombre": "Karyn Raymond",
+        "edad": 60
+      }
+    ],
+    "resumen": "La ciudad de , Beason tiene una poblacion de 2491189",
+    "atraccion_preferida": "casinos"
+  },
+  {
+    "codigo": 15,
+    "nombre": "Stewart",
+    "pais": "Peru",
+    "poblacion": 1641951,
+    "telefonos": [
+      " (865) 598-3891",
+      " (953) 419-2927",
+      " (999) 411-3557",
+      " (999) 411-2732",
+      " (977) 417-2555",
+      " (963) 533-3002",
+      " (878) 506-3260"
+    ],
+    "alcalde": {
+      "nombre": "Peggy",
+      "apellidos": "Robbins",
+      "edad": 52
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Judy Howard",
+        "edad": 30
+      },
+      {
+        "identificador": 1,
+        "nombre": "Juliana Galloway",
+        "edad": 42
+      },
+      {
+        "identificador": 2,
+        "nombre": "Best Jenkins",
+        "edad": 57
+      }
+    ],
+    "resumen": "La ciudad de , Stewart tiene una poblacion de 1641951",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 16,
+    "nombre": "Orviston",
+    "pais": "Malta",
+    "poblacion": 3710540,
+    "telefonos": [
+      " (823) 463-2393",
+      " (910) 569-2086",
+      " (869) 569-2621",
+      " (929) 474-2826",
+      " (940) 528-2926",
+      " (824) 565-3049",
+      " (993) 484-3814"
+    ],
+    "alcalde": {
+      "nombre": "Gould",
+      "apellidos": "Hoover",
+      "edad": 66
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Carrillo Sweet",
+        "edad": 77
+      },
+      {
+        "identificador": 1,
+        "nombre": "Bethany Holmes",
+        "edad": 50
+      },
+      {
+        "identificador": 2,
+        "nombre": "Victoria Sheppard",
+        "edad": 41
+      }
+    ],
+    "resumen": "La ciudad de , Orviston tiene una poblacion de 3710540",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 17,
+    "nombre": "Eureka",
+    "pais": "Virgin Islands (British)",
+    "poblacion": 569647,
+    "telefonos": [
+      " (823) 508-3676",
+      " (997) 450-2557",
+      " (962) 532-2197",
+      " (801) 423-2633",
+      " (918) 490-2588",
+      " (991) 403-2349",
+      " (849) 475-3755"
+    ],
+    "alcalde": {
+      "nombre": "Brady",
+      "apellidos": "Terrell",
+      "edad": 43
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Megan Pace",
+        "edad": 61
+      },
+      {
+        "identificador": 1,
+        "nombre": "Alison Hooper",
+        "edad": 47
+      },
+      {
+        "identificador": 2,
+        "nombre": "Foley Strong",
+        "edad": 58
+      }
+    ],
+    "resumen": "La ciudad de , Eureka tiene una poblacion de 569647",
+    "atraccion_preferida": "casinos"
+  },
+  {
+    "codigo": 18,
+    "nombre": "Basye",
+    "pais": "Comoros",
+    "poblacion": 2093209,
+    "telefonos": [
+      " (955) 439-3444",
+      " (951) 523-3527",
+      " (809) 440-3537",
+      " (851) 403-2925",
+      " (830) 504-3800",
+      " (956) 454-3481",
+      " (814) 566-2354"
+    ],
+    "alcalde": {
+      "nombre": "Mabel",
+      "apellidos": "Simmons",
+      "edad": 53
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Mindy Jarvis",
+        "edad": 30
+      },
+      {
+        "identificador": 1,
+        "nombre": "Whitley Bridges",
+        "edad": 49
+      },
+      {
+        "identificador": 2,
+        "nombre": "Rene Barrera",
+        "edad": 76
+      }
+    ],
+    "resumen": "La ciudad de , Basye tiene una poblacion de 2093209",
+    "atraccion_preferida": "casinos"
+  },
+  {
+    "codigo": 19,
+    "nombre": "Clinton",
+    "pais": "Cyprus",
+    "poblacion": 803203,
+    "telefonos": [
+      " (926) 546-3350",
+      " (851) 584-3122",
+      " (910) 431-2921",
+      " (847) 502-3161",
+      " (945) 432-3989",
+      " (982) 424-3528",
+      " (896) 420-2235"
+    ],
+    "alcalde": {
+      "nombre": "Rita",
+      "apellidos": "Macias",
+      "edad": 57
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Dudley David",
+        "edad": 84
+      },
+      {
+        "identificador": 1,
+        "nombre": "Monica Mcneil",
+        "edad": 51
+      },
+      {
+        "identificador": 2,
+        "nombre": "Acevedo Buchanan",
+        "edad": 60
+      }
+    ],
+    "resumen": "La ciudad de , Clinton tiene una poblacion de 803203",
+    "atraccion_preferida": "casinos"
+  },
+  {
+    "codigo": 20,
+    "nombre": "Oberlin",
+    "pais": "Madagascar",
+    "poblacion": 250460,
+    "telefonos": [
+      " (806) 475-3999",
+      " (920) 483-2688",
+      " (818) 412-3383",
+      " (973) 482-3552",
+      " (827) 419-3498",
+      " (855) 517-2151",
+      " (838) 449-3336"
+    ],
+    "alcalde": {
+      "nombre": "Haley",
+      "apellidos": "Harvey",
+      "edad": 68
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Jennie Willis",
+        "edad": 30
+      },
+      {
+        "identificador": 1,
+        "nombre": "Knight Russo",
+        "edad": 53
+      },
+      {
+        "identificador": 2,
+        "nombre": "Amparo Reid",
+        "edad": 73
+      }
+    ],
+    "resumen": "La ciudad de , Oberlin tiene una poblacion de 250460",
+    "atraccion_preferida": "vino"
+  },
+  {
+    "codigo": 21,
+    "nombre": "Freeburn",
+    "pais": "Hong Kong",
+    "poblacion": 3945960,
+    "telefonos": [
+      " (898) 593-3690",
+      " (873) 479-3784",
+      " (879) 449-3790",
+      " (851) 572-3458",
+      " (900) 485-3727",
+      " (926) 458-3071",
+      " (896) 407-2416"
+    ],
+    "alcalde": {
+      "nombre": "Moreno",
+      "apellidos": "Fowler",
+      "edad": 77
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Simon Delacruz",
+        "edad": 50
+      },
+      {
+        "identificador": 1,
+        "nombre": "Ann Newton",
+        "edad": 29
+      },
+      {
+        "identificador": 2,
+        "nombre": "Amelia Craft",
+        "edad": 39
+      }
+    ],
+    "resumen": "La ciudad de , Freeburn tiene una poblacion de 3945960",
+    "atraccion_preferida": "alpinismo"
+  },
+  {
+    "codigo": 22,
+    "nombre": "Germanton",
+    "pais": "Macau",
+    "poblacion": 3804964,
+    "telefonos": [
+      " (948) 431-2828",
+      " (834) 409-2551",
+      " (907) 436-2631",
+      " (860) 509-3542",
+      " (994) 467-3858",
+      " (994) 439-2888",
+      " (951) 521-3570"
+    ],
+    "alcalde": {
+      "nombre": "Lucia",
+      "apellidos": "Rollins",
+      "edad": 61
+    },
+    "consejeros": [
+      {
+        "identificador": 0,
+        "nombre": "Rich Sargent",
+        "edad": 36
+      },
+      {
+        "identificador": 1,
+        "nombre": "Reeves Moon",
+        "edad": 39
+      },
+      {
+        "identificador": 2,
+        "nombre": "Alexis Knox",
+        "edad": 47
+      }
+    ],
+    "resumen": "La ciudad de , Germanton tiene una poblacion de 3804964",
+    "atraccion_preferida": "vino"
+  }]

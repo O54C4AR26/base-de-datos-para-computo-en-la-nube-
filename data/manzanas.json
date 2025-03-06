@@ -1,0 +1,14 @@
+db.manzanas.insertMany(
+[
+{ nombre: "reineta", descripcion : "Este tipo de manzana, también conocida como Blanca, forma parte del grupo de las manzanas verdes, y se trata de un tipo de manzana tradicional.Se caracteriza por un sabor más dulce que ácido, por su color verde suave o amarillento, y por su forma un tanto achatada"},
+{ nombre: "granny smith", descripcion : "este tipo de manzana verde se distingue por su textura crujiente y jugosa, así como por su fina piel y ácido sabor."},
+{ nombre: "golden", descripcion : "Es el tipo de manzana amarilla más conocida. Además de los típicos atributos que comentamos antes, la Golden Delicious tiene también la particularidad de oxidarse con menos facilidad, lo que la hace perfecta para incorporar en todo tipo de postres, ya que mantiene el color original de la pulpa"},
+{ nombre: "chantecler", descripcion : "Esta variedad de manzana amarilla es originaria de Francia, y surge de la mezcla de injertos de la Golden Delicious y la Reineta Clochard. Suele tener una forma un tanto aplastada, aunque no es tan rústica como la Reineta. Su piel es de color amarillo, y a veces también posee unas pequeñas manchas que parecen pecas. La textura de su pulpa es jugosa y crujiente a la vez, y su sabor mezcla lo dulce con lo ácido. "},
+{ nombre: "royal gala", descripcion : "Esta manzana roja se caracteriza por su sabor dulce y por ser también muy aromática. De forma redondeada y de tamaño mediano, este tipo de manzana es uno de los que más se consiguen en todos los mercados. Su pulpa es de color blanco, y se la puede consumir fresca, así como utilizarla para preparar postres o también para añadir a ensaladas. "},
+{ nombre: "rome", descripcion : "Esta variedad de manzana roja es una de las más conocidas en Estados Unidos, ya que allí se la consume de manera habitual, especialmente cocida, ya que su sabor no destaca por nada particular. "},
+{ nombre: "rome", descripcion : "Esta variedad de manzana roja  es una de las variedades más consumidas en Canadá, país donde la manzana es una de las frutas más elegidas para comer tanto en postres o como alimento. "}
+
+
+
+]
+)
